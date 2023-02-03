@@ -1,0 +1,14 @@
+
+.header{
+    display: flex;
+    background-color: rgb(151, 150, 150);
+    font-size: 0.5cm;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    margin-left: 25px;
+    height: 560px;
+    overflow-y: scroll;
+}

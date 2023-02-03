@@ -1,0 +1,8 @@
+.wrapper {
+    width: 70%;
+    background-color: rgb(232, 232, 199);
+    height: 300px;
+    border-width: 10px;
+    border-color: black;
+    border-style: none;
+}

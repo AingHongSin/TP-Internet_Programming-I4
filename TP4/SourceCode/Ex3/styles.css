@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.color1 {
+    color: #354a77;
+}
+
+.wrapper {
+    margin: auto;
+    margin-top: 20%;
+    text-align: center;
+}
+
+.title {
+    font-size: 48px;
+    
+}
+
+.number {
+    font-size: 64px;
+    color: #008000;
+}
+
+.btn-container {
+    width: 270px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+}
+
+.inc-btn {
+    background-color: #222121;
+    color: white;
+}
