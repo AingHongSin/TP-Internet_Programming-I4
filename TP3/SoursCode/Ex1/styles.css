@@ -1,8 +1,35 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
 .wrapper {
     width: 70%;
     background-color: rgb(232, 232, 199);
-    height: 300px;
-    border-width: 10px;
+    height: 700px;
+    border-width: 2px;
     border-color: black;
-    border-style: none;
+    border-style: solid;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.wrapper h5 {
+    font-size: x-large;
+}
+
+.row {
+    width: 90%;
+    margin: auto;
+}
+
+.header-row {
+    background-color: #C9C9C9;
+    
+
+}
+
+.column {
+    display: inline-block;
+
 }
